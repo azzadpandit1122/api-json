@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "Product_id": "1",
+      "Product_Name": "Apple",
+      "Product_Quality": "good",
+      "Product_Price": "100",
+      "Buyer_Satisfaction": "3",
+      "In_Strock_From": "12/03/2021"
+    },
+    {
+      "Product_id": "2",
+      "Product_Name": "Mango",
+      "Product_Quality": "good",
+      "Product_Price": "700",
+      "Buyer_Satisfaction": "6",
+      "In_Strock_From": "22/04/2021"
+    },
+    {
+      "Product_id": "3",
+      "Product_Name": "Choclate",
+      "Product_Quality": "good",
+      "Product_Price": "120",
+      "Buyer_Satisfaction": "4",
+      "In_Strock_From": "12/08/2021"
+    },
+    {
+      "Product_id": "4",
+      "Product_Name": "Ladu",
+      "Product_Quality": "bad",
+      "Product_Price": "80",
+      "Buyer_Satisfaction": "4",
+      "In_Strock_From": "09/7/2021"
+    }
+  ]
+}
