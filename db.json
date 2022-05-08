@@ -1,36 +1,54 @@
 {
-  "users": [
+  "page": 2,
+  "per_page": 6,
+  "total": 12,
+  "total_pages": 2,
+  "data": [
     {
-      "Product_id": "1",
-      "Product_Name": "Apple",
-      "Product_Quality": "good",
-      "Product_Price": "100",
-      "Buyer_Satisfaction": "3",
-      "In_Strock_From": "12/03/2021"
+      "id": 7,
+      "email": "michael.lawson@reqres.in",
+      "first_name": "Michael",
+      "last_name": "Lawson",
+      "avatar": "https://reqres.in/img/faces/7-image.jpg"
     },
     {
-      "Product_id": "2",
-      "Product_Name": "Mango",
-      "Product_Quality": "good",
-      "Product_Price": "700",
-      "Buyer_Satisfaction": "6",
-      "In_Strock_From": "22/04/2021"
+      "id": 8,
+      "email": "lindsay.ferguson@reqres.in",
+      "first_name": "Lindsay",
+      "last_name": "Ferguson",
+      "avatar": "https://reqres.in/img/faces/8-image.jpg"
     },
     {
-      "Product_id": "3",
-      "Product_Name": "Choclate",
-      "Product_Quality": "good",
-      "Product_Price": "120",
-      "Buyer_Satisfaction": "4",
-      "In_Strock_From": "12/08/2021"
+      "id": 9,
+      "email": "tobias.funke@reqres.in",
+      "first_name": "Tobias",
+      "last_name": "Funke",
+      "avatar": "https://reqres.in/img/faces/9-image.jpg"
     },
     {
-      "Product_id": "4",
-      "Product_Name": "Ladu",
-      "Product_Quality": "bad",
-      "Product_Price": "80",
-      "Buyer_Satisfaction": "4",
-      "In_Strock_From": "09/7/2021"
+      "id": 10,
+      "email": "byron.fields@reqres.in",
+      "first_name": "Byron",
+      "last_name": "Fields",
+      "avatar": "https://reqres.in/img/faces/10-image.jpg"
+    },
+    {
+      "id": 11,
+      "email": "george.edwards@reqres.in",
+      "first_name": "George",
+      "last_name": "Edwards",
+      "avatar": "https://reqres.in/img/faces/11-image.jpg"
+    },
+    {
+      "id": 12,
+      "email": "rachel.howell@reqres.in",
+      "first_name": "Rachel",
+      "last_name": "Howell",
+      "avatar": "https://reqres.in/img/faces/12-image.jpg"
     }
-  ]
+  ],
+  "support": {
+    "url": "https://reqres.in/#support-heading",
+    "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+  }
 }
